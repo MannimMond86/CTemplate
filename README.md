@@ -13,12 +13,25 @@
   add Bracket Pair Colorizer
   add Prettier Formatter
 
-2. add the main.c in your coding folder
-3. set up the settings
+## 2. add the main.c in your coding folder
+
+## 3. set up the settings
   {
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "files.autoSave": "onFocusChange",
   }
-4. create the .vscode folder
+
+## 4. create the .vscode folder
   copy files in it
+  
+## 5. Compile && Run Tasks;
+ 
+ CTRL+Shift+B
+ 
+ 
+ C:Debug
+ 
+ C:Release
+ 
+ 
