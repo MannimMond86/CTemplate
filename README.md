@@ -2,9 +2,9 @@
 
 
 ## 0. Prepair:
-  sudo apt-get install make
-  sudo apt-get install gdb
-  sudo apt-get install gcc
+  sudo apt-get install make &&
+  sudo apt-get install gdb &&
+  sudo apt-get install gcc 
   
 ## 1. instsll visul studio code
   install the vsc download from the homepage
